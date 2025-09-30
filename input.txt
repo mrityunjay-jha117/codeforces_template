@@ -1,0 +1,21 @@
+52
+q w e r t y u i o p a s d f g h j k l z x c v b n m q a z s x w e d c r f v t g b y h n u j m i k o l p
+18
+11 a s d f g h j k l z x
+18 w e r t y u i o p a s d f g h j k l
+29 z x c v b n m q a z s x w e d c r f v t g b y h n u j m i
+10 p o i u y t r e w q
+13 m n b v c x z a s d f g h
+16 r f v t g b y h n u j m i k o l
+25 q w e r t y u i o p a s d f g h j k l z x c v b n
+14 k l j h g f d s a q w e r t
+11 q q q q q q q q q q q
+52 q w e r t y u i o p a s d f g h j k l z x c v b n m q a z s x w e d c r f v t g b y h n u j m i k o l p
+15 x c v b n m l k j h g f d s a
+18 t g b y h n u j m i k o l p q w e r
+18 q a z s x w e d c r f v t g b y h n
+19 l p o k i j u h y g t f r d e s w q a
+9 w e r t y u i o p
+16 a z s x w e d c r f v t g b y h
+10 z z z z z z z z z z
+20 h j k l z x c v b n m q a z s x w e d c

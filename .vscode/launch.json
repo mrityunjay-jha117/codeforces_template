@@ -1,0 +1,12 @@
+{
+  "name": "CP Debug with input.txt",
+  "type": "cppdbg",
+  "request": "launch",
+  "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+  "args": [],
+  "stopAtEntry": false,
+  "cwd": "${workspaceFolder}",
+  "externalConsole": true,
+  "preLaunchTask": "Run CP Code",
+  "miDebuggerPath": "gdb"
+}
