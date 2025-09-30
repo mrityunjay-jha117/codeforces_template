@@ -142,7 +142,7 @@ int main() {
       if (i) cout << ' ';
       cout << row[i];
     }
-    cout << '\n';
+    cout << endl;
   }
   return 0;
 }
