@@ -1,4 +1,2 @@
-21 Shadipur Patel_Nagar Rajendra_Place Karol_Bagh Jhandewalan R_K_Ashram_Marg Rajiv_Chowk Barakhamba Mandi_House Supreme_Court_(Pragati_Maidan) Indraprastha Yamuna_Bank Akshardham Mayur_Vihar_Phase-1 Mayur_Vihar_Extention New_Ashok_Nagar Noida_Sector_15 Noida_Sector_16 Noida_Sector_18 Botanical_Garden Golf_Course Noida_City_Center
-10  Nawada Uttam_Nagar_West Uttam_Nagar_East Janak_Puri_West Janak_Puri_East Tilak_Nagar Subhash_Nagar Tagore_Garden Rajouri_Garden Ramesh_Nagar Moti_Nagar Kirti_Nagar Shadipur Patel_Nagar Rajendra_Place Karol_Bagh Jhandewalan R_K_Ashram_Marg Rajiv_Chowk Barakhamba Mandi_House ITO
-4 Mandi_House Supreme_Court_(Pragati_Maidan) Indraprastha Yamuna_Bank Laxmi_Nagar Nirman_Vihar Preet_Vihar Karkar_Duma
-0  Dwarka Dwarka_Sector_14 Dwarka_Sector_13 Dwarka_Sector_12 Dwarka_Sector_11 Dwarka_Sector_10 Dwarka_Sector_9 Dwarka_Sector_8
+4
+1 3 2 1 

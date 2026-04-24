@@ -1,7 +1,7 @@
 // Place your key bindings in this file to override the defaults
 [
   {
-    "key": "ctrl+alt+l",
+    "key": "ctrl+alt+w",
     "command": "workbench.action.tasks.runTask",
     "args": "Run CP with input.txt"
   }
