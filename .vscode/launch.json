@@ -7,6 +7,6 @@
   "stopAtEntry": false,
   "cwd": "${workspaceFolder}",
   "externalConsole": true,
-  "preLaunchTask": "Run CP Code",
+  "preLaunchTask": "CP Run with IO",
   "miDebuggerPath": "gdb"
 }

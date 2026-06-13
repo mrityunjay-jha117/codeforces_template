@@ -14,9 +14,7 @@
         "${fileDirname}/${fileBasenameNoExtension}.exe"
       ],
       "group": "build",
-      "problemMatcher": [
-        "$g++"
-      ]
+      "problemMatcher": ["$gcc"]
     },
     {
       "label": "Run CP with input.txt",
@@ -41,9 +39,7 @@
       "options": {
         "cwd": "C:/MinGW/bin"
       },
-      "problemMatcher": [
-        "$g++"
-      ],
+      "problemMatcher": ["$gcc"],
       "group": {
         "kind": "build",
         "isDefault": true
